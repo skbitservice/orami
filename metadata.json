@@ -1,0 +1,6 @@
+{
+  "name": "Orami",
+  "description": "Multi-category e-commerce mobile app featuring clean minimalist design, fast search, category browsing, deals, coupon discounts, cart, and visual order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
